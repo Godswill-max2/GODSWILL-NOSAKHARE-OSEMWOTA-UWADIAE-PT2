@@ -1,6 +1,6 @@
 #  Demostració del funcionament:
 
-## 1. Dins del nostre NextCloud, entrem a l'apartat "Files", dins, donarem click a "New", la qual ens obrirà diverses opcions, amb les 2 que ens interessa, "Upload Files"  per posar una imatge adins, "New Folder" per crear una carpeta,  la qual haurem de donar nom abans de poder crear-la.
+- **1. Dins del nostre NextCloud, entrem a l'apartat "Files", dins, donarem click a "New", la qual ens obrirà diverses opcions, amb les 2 que ens interessa, "Upload Files"  per posar una imatge adins, "New Folder" per crear una carpeta,  la qual haurem de donar nom abans de poder crear-la.**
 
 <img width="610" height="417" alt="image" src="https://github.com/user-attachments/assets/7a52fa4a-baec-40b3-99dc-28a27e6ffdcc" />
 <img width="879" height="157" alt="image" src="https://github.com/user-attachments/assets/961cfea8-01d0-40a7-a6fb-f2e109923e97" /> 
